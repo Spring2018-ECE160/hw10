@@ -1,9 +1,7 @@
-## Question 1
+## Question 2
 
-(K&R Exercise 6-4) Write a program that prints the distinct words in its input sorted into decreasing order of frequency of occurrence. Precede each word by its count. List out the command(s) used to run the program as well.
+(Eckel, 11.7) Create a function that takes an argument of a reference to a pointer to a pointer and modifies that argument. In main( ), call the function.
 
 Compile Steps: 
-
-Command(s) to run:
 
 Output:
