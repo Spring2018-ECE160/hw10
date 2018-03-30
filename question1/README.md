@@ -1,9 +1,8 @@
 ## Question 1
 
-(K&R Exercise 6-2) Write a program that reads a C program and prints in alphabetical order each group of variable names that are identical in the first 6 characters, but different somewhere thereafter. Don't count words within strings and comments. Make 6 a parameter that can be set from the command line. Also, list out the commands to run the program below.
+(Eckel, 10.16) Create a header file containing a namespace. Inside the namespace create several function declarations. Now
+create a second header file that includes the first one and continues the namespace, adding several more function declarations. Now create a cpp file that includes the second header file. Alias your namespace to another (shorter) name. Inside a function definition, call one of your functions using scope resolution. Inside a separate function definition, write a using directive to introduce your namespace into that function scope, and show that you don’t need scope resolution to call the functions from your namespace.
 
 Compile Steps: 
-
-Command(s) to run the program:
 
 Output:
